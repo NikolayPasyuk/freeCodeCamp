@@ -14,4 +14,4 @@ const wordBlanks =
     " " +
     myVerb +
     " " +
-    myAdverb; // Change this line
+    myAdverb;
